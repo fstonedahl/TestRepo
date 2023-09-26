@@ -1,2 +1,2 @@
-print("CHOMP CHOMP!")
+print("CHOMP CHOMP CHOMP!")
 
